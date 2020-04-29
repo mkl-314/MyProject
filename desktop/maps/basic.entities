@@ -1,0 +1,14 @@
+[
+{
+	class: entities.EntitySnapshot
+	type: Player
+	x: 237.70374
+	y: 112
+}
+{
+	class: entities.EntitySnapshot
+	type: Player
+	x: 145.27141
+	y: 128
+}
+]
